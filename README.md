@@ -1,7 +1,7 @@
 # Emotion-diary(감정일기장)
 5단계 감정 따른 일기장을 날짜별로 작성하여 서로가 작성한 일기를 공유 할 수있는 감정일기장
 
-# 시연 링킁
+# 시연 링크
 
 ● https://jwh-udemy-project.web.app/
 
