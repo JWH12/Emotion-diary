@@ -6,7 +6,7 @@
 ● https://jwh-udemy-project.web.app/
 
 # 개발 환경
-<br> ### 개발언어
+### 개발언어
 <br> ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 <br> ![Html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
